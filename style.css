@@ -1,0 +1,42 @@
+body
+{
+	background: rgb(211, 255, 177);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+    .div_division{
+        text-align: left;
+    }
+
+	.division{
+		width: 100px;
+		height: 100px;
+		transform: rotate(60deg);
+	}
+
+	.multiplication{
+		width: 100px;
+		height: 100px;
+		transform: rotate(60deg);
+	}
+
+	.Login_button{
+		background-color: rgb(179, 118, 53);
+		border-radius: 19px;
+		width: 100px;
+		height: 30px;
+		color:white
+	}
+
+	.heading{
+		font-family: fantasy;
+		color: rgb(3, 3, 83);
+		text-decoration: underline;
+		text-decoration-color: rgb(3, 3, 83);}

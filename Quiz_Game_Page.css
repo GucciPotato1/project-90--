@@ -1,0 +1,15 @@
+body
+{
+	background: rgb(211, 255, 177);
+}
+
+h1{
+    font-family: fantasy;
+    color: rgb(3, 3, 83);
+    text-decoration: underline;
+    text-decoration-color: rgb(3, 3, 83);
+}
+
+.btn btn-success{
+    background-color: rgb(179, 118, 53);
+}
